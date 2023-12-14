@@ -1,0 +1,16 @@
+body {
+    font-size: 2em; /* Adjust size as needed */
+    text-align: center;
+    background-color: #024959;
+    color: #038C3E;
+}
+a{
+    color:#0CF25D;
+}
+.aa{
+    font-size: 4em;
+    text-align: center;
+}
+.bb{
+    color: red;
+}
